@@ -1,0 +1,27 @@
+---
+ID: "31C9F991-33D0-4333-9D47-D017C8BD00D3"
+Parent: "1A48363D-818F-4E30-AD9B-F3F7E99020F0"
+Template: "455A3E98-A627-4B40-8035-E683A0331AC7"
+Path: "/sitecore/templates/Project/click-click-launch/Components/Page Content/EventInfo/Description"
+
+SharedFields:
+  - ID: "AB162CC0-DC80-4ABF-8871-998EE5D7BA32"
+    Hint: Type
+    Value: Rich Text
+
+  - ID: "BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E"
+    Hint: __Sortorder
+    Value: 200
+
+  - ID: "DBBBECA1-21C7-4906-9DD2-493C1EFA59A2"
+    Hint: __Shared revision
+    Value: "663F983A-62E0-4700-8323-41364B1B01D7"
+
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25BED78C-4957-4165-998A-CA1B52F67497"
+            Hint: __Created
+            Value: 20260625T000000Z
