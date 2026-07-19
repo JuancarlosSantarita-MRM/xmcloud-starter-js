@@ -1,7 +1,10 @@
 import './globals.css';
 
 import { StructuredData } from '@/components/structured-data/StructuredData';
-import { generateOrganizationSchema, generateWebSiteSchema } from '@/lib/structured-data/schema';
+import {
+  generateOrganizationSchema,
+  generateWebSiteSchema,
+} from '@/lib/structured-data/schema';
 import type { JsonLdValue } from '@/lib/structured-data/jsonld';
 
 export default function RootLayout({
@@ -19,9 +22,9 @@ export default function RootLayout({
 
   const webSiteSchema = baseUrl
     ? generateWebSiteSchema({
-      name: 'Solterra & Co.',
-      url: baseUrl,
-    })
+        name: 'Solterra & Co.',
+        url: baseUrl,
+      })
     : null;
 
   return (
@@ -31,8 +34,16 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
-        <StructuredData id="organization-schema" data={organizationSchema as JsonLdValue} />
-        {webSiteSchema && <StructuredData id="website-schema" data={webSiteSchema as JsonLdValue} />}
+        <StructuredData
+          id="organization-schema"
+          data={organizationSchema as JsonLdValue}
+        />
+        {webSiteSchema && (
+          <StructuredData
+            id="website-schema"
+            data={webSiteSchema as JsonLdValue}
+          />
+        )}
         {children}
       </body>
     </html>

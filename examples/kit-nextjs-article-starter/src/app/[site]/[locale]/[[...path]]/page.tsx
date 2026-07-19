@@ -33,18 +33,19 @@ export default async function Page({ params }: PageProps) {
 
   // Fetch the page data from Sitecore
   let page;
-  if (draft.isEnabled) {
-    const headers = await nextHeaders();
-    const previewData = client.getPreviewData(headers);
-    if (isDesignLibraryPreviewData(previewData)) {
-      page = await client.getDesignLibraryData(previewData);
-    } else {
-      page = await client.getPreview(previewData);
-    }
-  } else {
-    page = await client.getPage(path ?? [], { site, locale });
-  }
+  // if (draft.isEnabled) {
+  //   const headers = await nextHeaders();
+  //   const previewData = client.getPreviewData(headers);
+  //   if (isDesignLibraryPreviewData(previewData)) {
+  //     page = await client.getDesignLibraryData(previewData);
+  //   } else {
+  //     page = await client.getPreview(previewData);
+  //   }
+  // } else {
+  //   page = await client.getPage(path ?? [], { site, locale });
+  // }
 
+  page = await client.getPage(path ?? [], { site, locale });
   // If the page is not found, return a 404
   if (!page) {
     notFound();

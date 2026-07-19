@@ -1,6 +1,10 @@
 // Below are built-in components that are available in the app, it's recommended to keep them as is
 
-import { BYOCServerWrapper, NextjsContentSdkComponent, FEaaSServerWrapper } from '@sitecore-content-sdk/nextjs';
+import {
+  BYOCServerWrapper,
+  NextjsContentSdkComponent,
+  FEaaSServerWrapper,
+} from '@sitecore-content-sdk/nextjs';
 import { Form } from '@sitecore-content-sdk/nextjs';
 
 // end of built-in components
@@ -22,6 +26,7 @@ import * as TextBanner from 'src/components/text-banner/TextBanner';
 import * as testimonialcarouselprops from 'src/components/testimonial-carousel/testimonial-carousel.props';
 import * as TestimonialCarouselItem from 'src/components/testimonial-carousel/TestimonialCarouselItem';
 import * as TestimonialCarousel from 'src/components/testimonial-carousel/TestimonialCarousel';
+import * as LayoutDataTest from 'src/components/tac/layout-data-test/LayoutDataTest';
 import * as Title from 'src/components/sxa/Title';
 import * as RowSplitter from 'src/components/sxa/RowSplitter';
 import * as RichText from 'src/components/sxa/RichText';
@@ -142,7 +147,10 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['VideoModal', { ...VideoModaldev }],
   ['Video', { ...Video, componentType: 'client' }],
   ['vertical-image-accordion', { ...verticalimageaccordionprops }],
-  ['VerticalImageAccordion', { ...VerticalImageAccordion, componentType: 'client' }],
+  [
+    'VerticalImageAccordion',
+    { ...VerticalImageAccordion, componentType: 'client' },
+  ],
   ['topic-listing', { ...topiclistingprops }],
   ['TopicListing', { ...TopicListing }],
   ['TopicItem', { ...TopicItemdev }],
@@ -155,6 +163,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['testimonial-carousel', { ...testimonialcarouselprops }],
   ['TestimonialCarouselItem', { ...TestimonialCarouselItem }],
   ['TestimonialCarousel', { ...TestimonialCarousel, componentType: 'client' }],
+  ['LayoutDataTest', { ...LayoutDataTest }],
   ['Title', { ...Title, componentType: 'client' }],
   ['RowSplitter', { ...RowSplitter }],
   ['RichText', { ...RichText }],
@@ -169,7 +178,10 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ContentBlock', { ...ContentBlock, componentType: 'client' }],
   ['Container', { ...Container }],
   ['ColumnSplitter', { ...ColumnSplitter }],
-  ['subscription-banner', { ...subscriptionbannerprops, ...subscriptionbannerdictionary }],
+  [
+    'subscription-banner',
+    { ...subscriptionbannerprops, ...subscriptionbannerdictionary },
+  ],
   ['SubscriptionBanner', { ...SubscriptionBanner, componentType: 'client' }],
   ['StructuredData', { ...StructuredData }],
   ['secondary-navigation', { ...secondarynavigationprops }],
@@ -230,7 +242,10 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['GlobalHeader', { ...GlobalHeader, componentType: 'client' }],
   ['global-footer', { ...globalfooterprops }],
   ['GlobalFooter', { ...GlobalFooter }],
-  ['FooterNavigationColumn', { ...FooterNavigationColumn, componentType: 'client' }],
+  [
+    'FooterNavigationColumn',
+    { ...FooterNavigationColumn, componentType: 'client' },
+  ],
   ['FooterNavigationCallout', { ...FooterNavigationCalloutdev }],
   ['floating-dock', { ...floatingdockdev }],
   ['Flex', { ...Flexdev }],
@@ -265,3 +280,4 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
 ]);
 
 export default componentMap;
+
