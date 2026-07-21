@@ -1,0 +1,17 @@
+---
+ID: "{GENERATE-NEW-GUID}"
+Parent: "{PAGE-CONTENT-FOLDER-GUID}"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/click-click-launch/Page Content/LayoutDataTest
+
+SharedFields:
+  - Hint: componentName
+    Value: LayoutDataTest
+
+  - Hint: __Icon
+    Value: Office/32x32/elements.png
+
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
