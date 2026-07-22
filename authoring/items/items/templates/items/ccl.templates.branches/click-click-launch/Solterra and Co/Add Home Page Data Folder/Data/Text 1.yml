@@ -19,10 +19,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "8b57dadd-0825-4f5d-9c32-187c0af7e1fd"
-      Hint: text
-      Value: |
-        <div class="ck-content"><p>Text Text text!</p><p>This is the home page text.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8d834be2-5da6-4641-80a5-e9bb30b37eb8"

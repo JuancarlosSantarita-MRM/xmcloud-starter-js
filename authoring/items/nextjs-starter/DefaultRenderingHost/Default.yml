@@ -6,19 +6,22 @@ Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
 SharedFields:
 - ID: "3121c257-53cf-464a-b736-98b418876057"
   Hint: AppName
-  Value: Default
+  Value: "dev-host-jc"
 - ID: "94470b31-e282-4d8d-bc54-85689efb294c"
   Hint: ServerSideRenderingEngineConfigUrl
-  Value: "https://xmc-4txoyb26dqtvyvl6fn3s41-eh-s.sitecore-staging.cloud:443/api/editing/config"
+  Value: "https://xmc-7jbdkhooorbxidk2fe8gj4-eh.sitecorecloud.io/api/editing/config"
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
   Value: 1
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "970357ee-22f7-4d26-9d0a-70d3849ec3d3"
 - ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
   Hint: ServerSideRenderingEngineApplicationUrl
-  Value: "https://xmc-4txoyb26dqtvyvl6fn3s41-eh-s.sitecore-staging.cloud/"
+  Value: "https://xmc-7jbdkhooorbxidk2fe8gj4-eh.sitecorecloud.io"
 - ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
   Hint: ServerSideRenderingEngineEndpointUrl
-  Value: "https://xmc-4txoyb26dqtvyvl6fn3s41-eh-s.sitecore-staging.cloud:443/api/editing/render"
+  Value: "https://xmc-7jbdkhooorbxidk2fe8gj4-eh.sitecorecloud.io/api/editing/render"
 Languages:
 - Language: "de-DE"
   Fields:
@@ -65,7 +68,35 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "986522ec-d58b-403f-b3c6-aa2a94164d53"
+      Value: "30e04d84-7188-4540-b112-c91f9f1c9ffc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260721T154533Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260719T153223Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25a26bf5-0e8c-4b66-b555-5e8a9ac485af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260719T153223Z
 - Language: "ja-JP"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

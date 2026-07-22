@@ -1,0 +1,51 @@
+﻿---
+ID: "4a68caf2-77f7-45e4-b033-ec22ab71dde5"
+Parent: "fb831fd2-dc57-4512-90a6-201f830a4890"
+Template: "2e5e17ae-2a47-460e-af83-c52fe3b3d03d"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Home/Event/Hiking"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {DE860358-98D0-4F79-ABA3-CA2723419CF2}
+    {FB600A3B-C84D-4E24-9ABB-222FFD6A9A8C}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{B4F49B23-4BBA-4C79-BA22-F89F5F0D4E4F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5C3BFAD0-948F-42D8-8404-30AF9FA4B0B3}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "41680e77-84b4-4d46-940e-f476fa4ac4f7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260715T105207Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{57CC7DCE-E6B1-4564-9581-0E5850B8BDF2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ad2716d-1a63-41c1-a27e-fd14ce4eda08"
+    - ID: "971a3305-ef43-4b6b-9b57-b317db2870e2"
+      Hint: Title
+      Value: Hiking
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260715T111952Z
+    - ID: "ed981ca0-271d-4543-b735-ecc955bd58a1"
+      Hint: ogTitle
+      Value: Hiking
+    - ID: "f3fe5ec9-c78e-4549-900d-432555ad9cfc"
+      Hint: Intro
+      Value: Hiking intro

@@ -1,0 +1,91 @@
+﻿---
+ID: "894287f6-da91-4b54-854b-112903f4748a"
+Parent: "4a68caf2-77f7-45e4-b033-ec22ab71dde5"
+Template: "fb600a3b-c84d-4e24-9abb-222ffd6a9a8c"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Home/Event/Hiking/Hike Mansilingan"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{B4F49B23-4BBA-4C79-BA22-F89F5F0D4E4F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{127DE71A-4502-48D2-AD3B-62CCDAB2D1E8}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f7d3012a-63a5-4fa1-9b5c-7a98c172fe29"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260715T112100Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{57CC7DCE-E6B1-4564-9581-0E5850B8BDF2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b35be7e1-2553-40ec-a8a0-1f115d40d02e"
+    - ID: "971a3305-ef43-4b6b-9b57-b317db2870e2"
+      Hint: Title
+      Value: Hike Mandalagan
+    - ID: "abec5542-bce4-4840-9ba6-cc05f2f437ee"
+      Hint: EventDate
+      Value: 20260715Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260715T112141Z
+    - ID: "ed981ca0-271d-4543-b735-ecc955bd58a1"
+      Hint: ogTitle
+      Value: Hike Mandalagan
+    - ID: "f3fe5ec9-c78e-4549-900d-432555ad9cfc"
+      Hint: Intro
+      Value: Hike Mandalagan intro
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260715T114109Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{57CC7DCE-E6B1-4564-9581-0E5850B8BDF2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05b924de-043a-408c-826d-116f5304f8aa"
+    - ID: "971a3305-ef43-4b6b-9b57-b317db2870e2"
+      Hint: Title
+      Value: Hike Mandalagan
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: Test Version
+    - ID: "abec5542-bce4-4840-9ba6-cc05f2f437ee"
+      Hint: EventDate
+      Value: 20260715Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260715T114109Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260715T114109Z
+    - ID: "ed981ca0-271d-4543-b735-ecc955bd58a1"
+      Hint: ogTitle
+      Value: Hike Mandalagan
+    - ID: "f3fe5ec9-c78e-4549-900d-432555ad9cfc"
+      Hint: Intro
+      Value: Hike Mandalagan intro

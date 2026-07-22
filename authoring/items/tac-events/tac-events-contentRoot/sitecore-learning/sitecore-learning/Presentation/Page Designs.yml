@@ -1,0 +1,45 @@
+﻿---
+ID: "f0951a5d-8ced-49d1-99ba-a561fcab02e9"
+Parent: "854f7e92-c3ae-4e4c-8229-aa346a510a6d"
+Template: "d7f515ed-ff6b-49b6-995b-9dd326f69037"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bCAA053CE-C5AC-4688-8159-604AE1064145%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D%26%7bDE860358-98D0-4F79-ABA3-CA2723419CF2%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D%26%7b66A52965-7F4D-42DC-BFB3-00918E58494B%7d%26%7b4D2F591E-B4FC-4CFB-B5BC-0670160DA127%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D%26%7bBF5EA80E-C705-4692-906C-7F47935BC61F%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D%26%7b510AF9EF-8499-4704-A745-501DB36D8DF6%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D%26%7b96A2056E-C8DF-4A57-AFFB-13AA93E19301%7d%3d%257B8618AC34-966E-4782-8722-964CC93E471D%257D"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f0ed121f-818e-4889-89f1-11873bc23c90"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260622T162510Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7FE5BDD-A991-4A58-9735-CD08F9B097AB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "725edbf3-f9fa-49e6-8900-301eae67a530"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260622T162850Z

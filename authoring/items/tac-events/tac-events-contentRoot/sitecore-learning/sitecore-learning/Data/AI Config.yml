@@ -1,0 +1,46 @@
+﻿---
+ID: "62422d8b-32ea-4058-88a6-649a4c6b521f"
+Parent: "46a0413c-ee08-41b3-a2e1-42093c50d486"
+Template: "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Data/AI Config"
+BranchID: "1a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1B2C3D4E-5F6A-4B7C-8D9E-0F1A2B3C4D5E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "41091d7d-0396-4bae-9565-6b7f82f31cdc"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: AI Config
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260622T162824Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7FE5BDD-A991-4A58-9735-CD08F9B097AB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7796132e-c04e-459c-99b6-7affa3ce4c37"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260622T162836Z

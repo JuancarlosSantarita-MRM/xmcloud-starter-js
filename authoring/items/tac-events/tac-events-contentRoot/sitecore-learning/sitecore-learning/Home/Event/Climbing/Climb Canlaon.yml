@@ -1,0 +1,49 @@
+﻿---
+ID: "e39db98f-29c2-49c4-be16-6462f65b3ec0"
+Parent: "922e6b01-9716-42d1-a249-3f3003c94e29"
+Template: "fb600a3b-c84d-4e24-9abb-222ffd6a9a8c"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Home/Event/Climbing/Climb Canlaon"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{B4F49B23-4BBA-4C79-BA22-F89F5F0D4E4F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9A8C4F70-E429-4BBD-B9BF-24917611D6C8}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1744818c-4469-400c-ab30-20d627ee6d80"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260715T112011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{57CC7DCE-E6B1-4564-9581-0E5850B8BDF2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1c53f84-11fd-406a-8003-1a1b5c2a5ba7"
+    - ID: "971a3305-ef43-4b6b-9b57-b317db2870e2"
+      Hint: Title
+      Value: Climb Canlaon
+    - ID: "abec5542-bce4-4840-9ba6-cc05f2f437ee"
+      Hint: EventDate
+      Value: 20260715Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260715T112012Z
+    - ID: "ed981ca0-271d-4543-b735-ecc955bd58a1"
+      Hint: ogTitle
+      Value: Climb Canlaon
+    - ID: "f3fe5ec9-c78e-4549-900d-432555ad9cfc"
+      Hint: Intro
+      Value: Climb Canlaon intro

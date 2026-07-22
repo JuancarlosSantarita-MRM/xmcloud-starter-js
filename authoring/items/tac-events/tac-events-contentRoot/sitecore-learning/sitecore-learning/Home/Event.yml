@@ -1,0 +1,75 @@
+﻿---
+ID: "fb831fd2-dc57-4512-90a6-201f830a4890"
+Parent: "5f32a5e4-11bc-45ab-aff4-0615e4e15b6f"
+Template: "2e5e17ae-2a47-460e-af83-c52fe3b3d03d"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Home/Event"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {DE860358-98D0-4F79-ABA3-CA2723419CF2}
+    {2E5E17AE-2A47-460E-AF83-C52FE3B3D03D}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{B4F49B23-4BBA-4C79-BA22-F89F5F0D4E4F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{975EF07C-635F-4BA0-B6D1-BFC541B5786B}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f58eb765-ab82-4e72-bec2-7f3bd89fc94a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "153f6a10-da98-4df3-ba94-fb21d5044214"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Event
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7F3EA6F-9DEE-4672-B87A-06F42F426348}"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=3iD0vQs8maghLDto33Snn&amp;ComponentId=NCO6KTD6DD&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=8J9MWLhuhteE40Y&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260715T103131Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{57CC7DCE-E6B1-4564-9581-0E5850B8BDF2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "028b1dc5-8f5e-4317-b1c7-abc7a7ded27e"
+    - ID: "971a3305-ef43-4b6b-9b57-b317db2870e2"
+      Hint: Title
+      Value: New page
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260715T152859Z
+    - ID: "ed981ca0-271d-4543-b735-ecc955bd58a1"
+      Hint: ogTitle
+      Value: New page
+    - ID: "f3fe5ec9-c78e-4549-900d-432555ad9cfc"
+      Hint: Intro
+      Value: New page intro

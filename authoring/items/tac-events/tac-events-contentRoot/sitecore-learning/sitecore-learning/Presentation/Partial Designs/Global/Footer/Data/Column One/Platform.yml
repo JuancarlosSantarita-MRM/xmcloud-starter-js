@@ -1,0 +1,49 @@
+﻿---
+ID: "b0c913f2-bfda-49bb-b33e-2c48f7f20c58"
+Parent: "8c249680-9e5c-4583-a9fc-eb3fe841111d"
+Template: "cfd30fc4-07fa-471e-9f85-3a1bf425c718"
+Path: "/sitecore/content/sitecore-learning/sitecore-learning/Presentation/Partial Designs/Global/Footer/Data/Column One/Platform"
+BranchID: "ed920ceb-2272-432a-829e-4610b6b94945"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A053ED9F-4099-4682-9411-2B4C98E481E4}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "252c83eb-ec1d-4611-a146-4bf24cf63f9a"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{068B7426-BFB7-4791-8844-6FD226FBEA47}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260622T162725Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{4460E76C-87E9-4859-9DE6-DE122774937F}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5c3a077-f43b-4fe1-8958-ad1a0a125d70"
+    - ID: "969b132e-3dc2-4526-8f8d-61e3ea742df6"
+      Hint: link
+      Value: |
+        <link class="" id="{5F32A5E4-11BC-45AB-AFF4-0615E4E15B6F}" querystring="" anchor="" target="" title="" linktype="internal" text="Platform" url="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jc.santarita@mrm.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260622T162851Z

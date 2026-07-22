@@ -19,10 +19,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "8b57dadd-0825-4f5d-9c32-187c0af7e1fd"
-      Hint: text
-      Value: |
-        <div class="ck-content"><p><strong>HERO PLACEHOLDER</strong></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1caa59d0-cb9b-4b73-a110-8c5575b7b80b"
